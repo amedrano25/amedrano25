@@ -54,6 +54,6 @@ Tableau, Power BI, Jupyter Notebook, Git/GitHub, Google Sheets, Excel (Advanced)
 
 ## 📫 Let’s Connect  
 📍 Based in the U.S. (Remote/Hybrid)  
-📧 [medranoadam42@gmail.com](mailto:medranoadam42@gmail.com)
+📧 [medranoadam42@gmail.com](mailto:medranoadam42@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/adam-medrano-1ba8a121b/)  
 🔗 [Portfolio Repository](https://github.com/amedrano25)  
